@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm a freshman in the Computer Science department at Bilkent University.I'm studying Java and my main goal is to understand the fundamentals properly.
 
 <!--
 **egemank/egemank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
